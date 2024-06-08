@@ -1,0 +1,26 @@
+STEPS
+
+1) Do npm init on terminal after going to backend by cd
+
+2) package.json created in backend
+
+3)create a new file index.js
+
+4) npm install express.
+
+5) Copy hello world code from express js site to index.js
+
+6) "start": "node index.js" in scripts of package.json
+
+7) install nodemon (npm i nodemon) for automatic saving and reflection in changes on server
+
+8) Now we need a storage area for temporarily storing selected file on site for converting it to word
+
+9) npm install multer for that and paste DiskStorage code from that site to index .js, modify it a little.
+
+10) require multer , copy the app.post code of multer . Create a try catch block inside that
+
+11) npm install docx-pdf and copy the docxConverter code from usage inside try block
+
+12) write codes for file not found , file downloading , uploading , inpuit and output path etc in index.js
+

@@ -1,0 +1,11 @@
+STEPS
+
+1) Install tailwind with vite , delete app.css , modify app.jsx.
+
+2) Create folder components in src , add Navbar.jsx, Footer.jsx and Home.jsx in that.
+
+3) Write code in Home.jsx
+
+4) Install axios and copy the link from postman inside axios.post.
+
+5) Install cors in backend and require it.
